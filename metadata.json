@@ -1,0 +1,6 @@
+{
+  "name": "Scan2Know - FSSAI Food Health Checker",
+  "description": "Instant QR code nutrition scanner & health score analyzer using FSSAI guidelines and CBSE linear polynomial models. Features historical trends, PDF reports, leaderboard, and challenges.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
